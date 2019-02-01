@@ -97,6 +97,12 @@
                     <a href="accedev.com">accedev.com</a>
                 </div>
             </div>
+
+            <div class="content">
+                <div class="title m-b-md">
+                    <a href="otherlink.com">otherlink.com</a>
+                </div>
+            </div>
         </div>
     </body>
 </html>
