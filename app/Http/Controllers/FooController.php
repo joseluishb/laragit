@@ -7,4 +7,8 @@ use Illuminate\Http\Request;
 class FooController extends Controller
 {
     //
+    public function index()
+    {
+        return "Foo";
+    }
 }
